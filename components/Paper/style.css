@@ -1,0 +1,11 @@
+.paper {
+  display: flex;
+  box-shadow: 2px 3px 7px -2px black;
+  border-radius: 5px;
+  padding: 20px;
+}
+
+.error {
+  background-color: rgba(250, 65, 65, 0.664);
+  color: rgba(255, 255, 255, 0.938);
+}

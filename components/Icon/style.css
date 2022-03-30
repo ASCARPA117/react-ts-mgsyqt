@@ -1,0 +1,9 @@
+.icon {
+  display: flex;
+  height: 35px;
+  width: 35px;
+  color: rgba(0, 153, 255, 0.794);
+}
+.danger {
+  color: rgb(255, 0, 0);
+}

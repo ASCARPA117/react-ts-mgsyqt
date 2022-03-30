@@ -1,0 +1,31 @@
+.avatar {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  align-content: center;
+}
+.avatar-img {
+  width: 200px;
+  height: 120px;
+}
+.rounded {
+  width: 100px;
+  height: 100px;
+  border-radius: 10px;
+  overflow: hidden;
+  background-color: black;
+}
+.circle {
+  width: 100px;
+  height: 100px;
+  border-radius: 50%;
+  background-color: black;
+  overflow: hidden;
+}
+.initial-name {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  align-content: center;
+  color: aliceblue;
+}

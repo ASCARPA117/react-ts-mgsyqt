@@ -1,0 +1,17 @@
+.progress-bar-outer {
+  display: flex;
+  height: 10px;
+  background: rgb(78, 245, 78);
+  border-radius: 10px;
+  position: relative;
+  overflow: hidden;
+}
+.progress-bar-inner {
+  display: flex;
+  background: green;
+  transition: all 1s;
+  position: absolute;
+  left: 0;
+  top: 0;
+  bottom: 0;
+}

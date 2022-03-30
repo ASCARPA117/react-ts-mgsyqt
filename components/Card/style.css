@@ -1,0 +1,13 @@
+.container-bar {
+  display: flex;
+  flex-direction: column;
+  border-radius: 10px;
+  gap: 20px;
+
+}
+.budget-container {
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  gap: 20px;
+}
